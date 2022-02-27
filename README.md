@@ -12,7 +12,7 @@ harga nya. Dengan ketentuan kelas dan atributnya sebagai berikut:
 - Pc : processor, disk, ram, totalPrice
 - kelas Pc akan memuat ketiga kelas lainnya sebagai atribut
 
-b.Buatlah program diatas menggunakan bahasa PHP, Python dan Java!
+b. Buatlah program diatas menggunakan bahasa PHP, Python dan Java!
 
 //Penjesalan 
 
