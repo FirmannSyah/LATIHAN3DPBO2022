@@ -6,11 +6,11 @@ Sebuah repository untuk mengunggah kodingan dari latihan dpbo 2022
 
 a. Buatlah program dalam bahasa C++ untuk menampilkan spek pc beserta
 harga nya. Dengan ketentuan kelas dan atributnya sebagai berikut:
-● Processor : name, price
-● Disk : type(SDD/HDD), capacity, price
-● Ram : capacity, price
-● Pc : processor, disk, ram, totalPrice
-● kelas Pc akan memuat ketiga kelas lainnya sebagai atribut.
+- Processor : name, price
+- Disk : type(SDD/HDD), capacity, price
+- Ram : capacity, price
+- Pc : processor, disk, ram, totalPrice
+- kelas Pc akan memuat ketiga kelas lainnya sebagai atribut.
 b. Buatlah program diatas menggunakan bahasa PHP, Python dan Java!
 
 //Penjesalan 
