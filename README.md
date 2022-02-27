@@ -10,8 +10,9 @@ harga nya. Dengan ketentuan kelas dan atributnya sebagai berikut:
 - Disk : type(SDD/HDD), capacity, price
 - Ram : capacity, price
 - Pc : processor, disk, ram, totalPrice
-- kelas Pc akan memuat ketiga kelas lainnya sebagai atribut.
-b. Buatlah program diatas menggunakan bahasa PHP, Python dan Java!
+- kelas Pc akan memuat ketiga kelas lainnya sebagai atribut
+
+b.Buatlah program diatas menggunakan bahasa PHP, Python dan Java!
 
 //Penjesalan 
 
